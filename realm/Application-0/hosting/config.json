@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "custom_domain": "lotir.ml",
+    "app_default_domain": "application-0-mzgor.mongodbstitch.com",
+    "default_error_path": "",
+    "default_error_code": ""
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "addMessage",
+        "private": false
+    },
+    {
+        "name": "setToken",
+        "private": false
+    },
+    {
+        "name": "getMessages",
+        "private": false
+    },
+    {
+        "name": "notifMobile",
+        "private": true
+    },
+    {
+        "name": "addImage",
+        "private": false
+    }
+]

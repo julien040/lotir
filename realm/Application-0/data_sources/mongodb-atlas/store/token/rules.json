@@ -1,0 +1,15 @@
+{
+    "collection": "token",
+    "database": "store",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
