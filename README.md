@@ -20,7 +20,7 @@ Lotir is a simple app that allows you to share images and text between your phon
 
 To use the app, you need to install it on your phone. Download it from [Github Release](https://github.com/julien040/lotir/releases). To access the computer app, just go to [lotir.ml](https://lotir.ml) and set a sync key.
 
-If you want to know more about this project, it has been built for the MongoDB Atlas hackathon. Check the announcement post [here](https://dev.to/julien41/lotir-share-link-and-images-between-your-phone-and-your-computer-3cd9).
+If you want to know more about this project, it has been built for the MongoDB Atlas hackathon. Check the announcement post [here](https://dev.to/julien41/lotir-share-link-and-images-between-your-phone-and-your-computer-5d36).
 
 ## Development
 
